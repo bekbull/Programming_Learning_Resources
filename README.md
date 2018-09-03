@@ -7,6 +7,7 @@ If you learn some programming languages, everything else becomes super easy to d
 - Java: https://www.learnjavaonline.org/
 - Python: https://www.codecademy.com/
 - Golang: https://tour.golang.org/welcome/1
+- JavaScript: https://www.codecademy.com/
 - C#: https://www.learncs.org/
 
 
