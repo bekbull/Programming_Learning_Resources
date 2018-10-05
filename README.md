@@ -23,6 +23,7 @@ Skills: JavaScript, JSON, NodeJS, SQL, (Golang, Python, Erlang, Ruby) etc.
 
 ## Machine Learning
 Skills: Python, ANN development, optimization and execution, etc.
+- https://ai.google/education/
 - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 - https://developers.google.com/machine-learning/crash-course/
 - https://www.tensorflow.org/tutorials/
