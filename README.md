@@ -1,4 +1,4 @@
-# Programming Learning Resources
+# Programming Learning Resourceshttps://www.w3schools.com
 ###### INFO: It is better to search the internet yourself and find something that fits you the most. And please, never get in to the Udemy
 
 ## Languages
@@ -15,11 +15,13 @@ If you learn some programming languages, everything else becomes super easy to d
 Skills: HTML5, CSS, JavaScript and optional additions
 - https://learn.freecodecamp.org/
 - https://www.codecademy.com/
+- https://www.w3schools.com
 
 ## Back-end web development
 Skills: JavaScript, JSON, NodeJS, SQL, (Golang, Python, Erlang, Ruby) etc.
 - https://www.codecademy.com/
 - https://github.com/siwalikm/Prep-for-Full-Stack-JS
+- https://www.w3schools.com
 
 ## Machine Learning
 Skills: Python, ANN development, optimization and execution, etc.
